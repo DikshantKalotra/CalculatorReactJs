@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://DikshantKalotra.github.io/CalculatorReactJs",
+  "homepage": "http://DikshantKalotra.github.io/calculator-react-js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
